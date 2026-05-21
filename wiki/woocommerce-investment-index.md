@@ -54,6 +54,13 @@ This wiki documents comprehensive strategies for business scaling and investment
   - Price targets: ₹220-260 fair value, 28-40% downside potential
   - Investment recommendation: Wait for entry at ₹220-260
 
+#### Alternative Investment Ideas
+- **[[similar-reasonably-valued-companies]]** - Better alternatives to IGIL
+  - Companies with lower P/E ratios (18-25x vs IGIL's 28.5x)
+  - Similar B2B services business models
+  - Better risk-adjusted returns and margin of safety
+  - Recommended: TCS, Infosys, Wipro, HCL Tech, LTTS
+
 #### Research Sources
 - **[[igil-bear-case-report]]** - Original bear case research (raw sources)
   - Comprehensive financial analysis and risk assessment
