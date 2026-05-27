@@ -1,0 +1,1 @@
+The current temperature in Rajpura Patiala is 44°C, with a feels-like temperature of 47°C. Today
