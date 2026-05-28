@@ -102,8 +102,50 @@
                   "icon": "terminal",
                   "title": "Terminal: cmd"
                 }
+              },
+              {
+                "id": "abc0b138d91287ce",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "C:\\Users\\lenovo\\Desktop\\voice-ai-agent\\obsidian-vault",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "profileSourceId": "win32IntegratedDefault",
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: cmd"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -279,12 +321,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fa08ead851ee26cc",
+  "active": "506d0db17240a857",
   "lastOpenFiles": [
+    "raw/APSEZ_Investment_Case_May2026.docx",
+    "Business update -27 May 2026.md",
+    "wiki/line_of_treatment.md",
     "memory/temperature.md",
     "memory",
     "output/plan.md",
-    "Business update -27 May 2026.md",
     "wiki/preferences.md",
     "wiki/kids.md",
     "output/daily-ai-report-2026-05-25.md",
@@ -308,9 +352,7 @@
     "raw/igil-bear-case-report.md",
     "raw/Health dashboard design.md",
     "output",
-    "hellow world.md",
     "download.jpg",
-    "SCHEMA.md",
     "ssh-add"
   ]
 }
