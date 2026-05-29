@@ -1,0 +1,1 @@
+Here are some fun and interesting facts about Adani Ports and Special Economic Zone (APSEZ): 1. APSEZ is India

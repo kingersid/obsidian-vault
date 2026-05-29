@@ -44,14 +44,14 @@
                 "id": "fa08ead851ee26cc",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "split-diff-view",
                   "state": {
-                    "file": "Business update -27 May 2026.md",
-                    "mode": "source",
-                    "source": false
+                    "aFile": "wiki/APSEZ trivia.md",
+                    "bFile": "wiki/APSEZ trivia.md",
+                    "aRef": ""
                   },
-                  "icon": "lucide-file",
-                  "title": "Business update -27 May 2026"
+                  "icon": "diff",
+                  "title": "Diff: APSEZ trivia  (Working Tree)"
                 }
               }
             ],
@@ -323,19 +323,22 @@
   },
   "active": "506d0db17240a857",
   "lastOpenFiles": [
+    "wiki/Roman Empire vs Iranian Empire.md",
+    "output/daily-ai-report-2026-05-25.md",
+    "wiki/APSEZ trivia.md",
+    "output/my investments.md",
+    "output/plan.md",
+    "wiki/daily-habits.md",
     "raw/APSEZ_Investment_Case_May2026.docx",
     "Business update -27 May 2026.md",
     "wiki/line_of_treatment.md",
     "memory/temperature.md",
     "memory",
-    "output/plan.md",
     "wiki/preferences.md",
     "wiki/kids.md",
-    "output/daily-ai-report-2026-05-25.md",
     "wiki/my-kids.md",
     "my kids.md",
     "sci fi agent implementation.md",
-    "output/my investments.md",
     "daily/routine.md",
     "daily",
     "raw/stocks to track.md",
@@ -349,8 +352,6 @@
     "wiki/sid-profile.md",
     "wiki/igil-investment-analysis.md",
     "raw/woocommerce-setup-analysis.md",
-    "raw/igil-bear-case-report.md",
-    "raw/Health dashboard design.md",
     "output",
     "download.jpg",
     "ssh-add"
