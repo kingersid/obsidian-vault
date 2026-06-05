@@ -1,0 +1,1 @@
+Iran is older than Italy in terms of its government and civilization, but Italy has a rich history and cultural heritage that dates back thousands of years. The Roman Empire was one of the oldest and most influential empires in history, while the Iranian Empire has a long and complex history that spans thousands of years.
