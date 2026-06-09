@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/igil-investment-analysis.md",
+                "file": "Wiki/my-kids.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "igil-investment-analysis"
+              "title": "my-kids"
             }
           }
         ]
@@ -195,8 +195,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "34edc7cd2382d5cc",
+  "active": "1aff90e65e8dec70",
   "lastOpenFiles": [
+    "daily-vitals-dashboard-summary-2026-06-09.md",
+    "Wiki/igil-investment-analysis.md",
     "Wiki/sid-persona.md",
     "Wiki/gut-recovery-plan.md",
     "Wiki/daily-vitals-summary.md",
@@ -208,7 +210,6 @@
     "Wiki/activity-logs",
     "raw/customer_billing_report.csv",
     "output/daily trending repositories.md",
-    "daily-vitals-dashboard-summary-2026-06-09.md",
     "daily-ai-reports/daily-ai-report-2026-05-30.md",
     "daily-ai-reports",
     "FIFA World Cup 2026.md",
