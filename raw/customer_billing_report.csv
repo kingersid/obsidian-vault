@@ -1,29 +1,29 @@
-name,number_of_bills,shopping_value_total,last_bill_date,phone_number
-"John Doe",0,0.00,,"9876543210"
-"Jane Smith",0,0.00,,"8765432109"
-"Bob Wilson",0,0.00,,"7654321098"
-"priya kinger",0,0.00,,"9537097267"
-"Priya Kinger",0,0.00,,"9537101263"
-" Mrs. Gunika Bhatia",1,2899.00,2026-03-20,"9099046123"
-"megha kapoor",1,3500.00,2026-03-30,"9376515942"
-"Dr. richa chaudhary",1,6745.00,2026-02-28,"9670392024"
-"rajvi aagam",1,21500.00,2026-03-30,"9724801023"
-"Roopal mehta",1,3000.00,2026-03-30,"9825112228"
-"Daksha",1,1400.00,2026-03-30,"9820530607"
-"neeta kotharu",1,2400.00,2026-03-30,"9898276982"
-"Shraddha Rajani",1,4000.00,2026-03-30,"9986246916"
-"Mrs Desai",1,5500.00,2026-03-30,"9029391800"
-"Vinita mam",1,8200.00,2026-03-30,"9979580941"
-"Siya Kinger",1,2600.00,2026-03-30,"8469259105"
-"shrishti test",0,0.00,,"95356355555"
-"Trupti jhawar",1,1500.00,2026-04-12,"7507562900"
-"Charlie Green",0,0.00,,"1112223333"
-"sunita kinger",0,0.00,,"9328404190"
-"Dipisha choksi",1,8200.00,2026-04-16,"9824352003"
-"Aneri",1,2000.00,2026-04-16,"9408699752"
-"nisha baid",1,1895.00,2026-04-16,"9377408668"
-"Iva",1,7000.00,2026-04-16,"9033064113"
-"Neha",1,4000.00,2026-04-16,"9913359542"
-"Renu Ji",1,6500.00,2026-04-16,"9702651588"
-"Leena",1,7200.00,2026-04-16,"9978804050"
-"Mamta ji",1,4300.00,2026-04-16,"9825949116"
+Name,phone_number
+LEV John Doe,9876543210
+LEV Jane Smith,8765432109
+LEV Bob Wilson,7654321098
+LEV priya kinger,9537097267
+LEV Priya Kinger,9537101263
+LEV  Mrs. Gunika Bhatia,9099046123
+LEV megha kapoor,9376515942
+LEV Dr. richa chaudhary,9670392024
+LEV rajvi aagam,9724801023
+LEV Roopal mehta,9825112228
+LEV Daksha,9820530607
+LEV neeta kotharu,9898276982
+LEV Shraddha Rajani,9986246916
+LEV Mrs Desai,9029391800
+LEV Vinita mam,9979580941
+LEV Siya Kinger,8469259105
+LEV shrishti test,95356355555
+LEV Trupti jhawar,7507562900
+LEV Charlie Green,1112223333
+LEV sunita kinger,9328404190
+LEV Dipisha choksi,9824352003
+LEV Aneri,9408699752
+LEV nisha baid,9377408668
+LEV Iva,9033064113
+LEV Neha,9913359542
+LEV Renu Ji,9702651588
+LEV Leena,9978804050
+LEV Mamta ji,9825949116
