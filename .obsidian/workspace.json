@@ -4,107 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "d09643d2cc727514",
-        "type": "split",
+        "id": "e7593335d5863695",
+        "type": "tabs",
         "children": [
           {
-            "id": "a4d5d98c5a6b178c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b64bcc96ff49218d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "output/my investments.md",
-                    "mode": "source",
-                    "source": false
+            "id": "574a65bd263a05a4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\ADMIN\\Desktop\\obsidian-vault",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
                   },
-                  "icon": "lucide-file",
-                  "title": "my investments"
+                  "profileSourceId": "win32IntegratedDefault",
+                  "serial": null
                 }
               },
-              {
-                "id": "5589ff13fc63822e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "sci fi agent implementation.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "sci fi agent implementation"
-                }
-              },
-              {
-                "id": "6e3f3904cbb46b44",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "conflict-files-obsidian-git.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "conflict-files-obsidian-git"
-                }
-              }
-            ],
-            "currentTab": 2
-          },
-          {
-            "id": "e7593335d5863695",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "574a65bd263a05a4",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "C:\\Users\\ADMIN\\Desktop\\obsidian-vault",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "C:\\Windows\\System32\\cmd.exe",
-                        "followTheme": true,
-                        "name": "",
-                        "platforms": {
-                          "win32": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "profileSourceId": "win32IntegratedDefault",
-                      "serial": null
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: cmd"
-                }
-              }
-            ]
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: cmd"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,14 +222,17 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6e3f3904cbb46b44",
+  "active": "574a65bd263a05a4",
   "lastOpenFiles": [
-    "sci fi agent implementation.md",
+    "output/my investments.md",
+    "HONASA.md",
     "wiki/activity-logs/ai-report-raw-vb-2026-06-09.md",
+    "wiki/activity-logs/ai-report-activity-2026-05-30.md",
+    "sci fi agent implementation.md",
+    "conflict-files-obsidian-git.md",
     "wiki/activity-logs/ai-report-raw-hn-2026-06-09.md",
     "wiki/activity-logs/ai-report-raw-ai-news-2026-06-09.md",
     "wiki/activity-logs/ai-report-activity-2026-06-09.md",
-    "wiki/activity-logs/ai-report-activity-2026-05-30.md",
     "wiki/activity-logs",
     "output/2026-05-24 - Drinks with the Boys.md",
     "my kids.md",
@@ -295,7 +242,6 @@
     "daily-vitals-dashboard-summary-2026-06-09.md",
     "daily-ai-reports/daily-ai-report-2026-05-30.md",
     "daily-ai-reports",
-    "conflict-files-obsidian-git.md",
     "wiki/Things-to-Master-2026.md",
     "Skills/user/local-tts-setup/local-tts-implementation-plan.md",
     "Skills/user/sid-writing-style.md",
@@ -308,8 +254,6 @@
     "Skills/public/xlsx.md",
     "Skills/public/product-self-knowledge.md",
     "Skills/public/pptx.md",
-    "Skills/public/pdf.md",
-    "Skills/public/pdf-reading.md",
     "Skills/user",
     "Skills/public",
     "Skills",
