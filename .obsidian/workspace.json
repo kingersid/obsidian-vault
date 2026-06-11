@@ -38,9 +38,23 @@
                   "icon": "lucide-file",
                   "title": "sci fi agent implementation"
                 }
+              },
+              {
+                "id": "6e3f3904cbb46b44",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "conflict-files-obsidian-git.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "conflict-files-obsidian-git"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "e7593335d5863695",
@@ -264,36 +278,44 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "5589ff13fc63822e",
+  "active": "6e3f3904cbb46b44",
   "lastOpenFiles": [
-    "wiki/weekly-meditation-session.md",
-    "wiki/todo-list.md",
-    "wiki/similar-reasonably-valued-companies.md",
-    "wiki/personal-goals-index.md",
-    "wiki/personal-goals-aspirations.md",
     "sci fi agent implementation.md",
-    "output/my investments.md",
-    "daily/routine.md",
-    "daily",
-    "raw/stocks to track.md",
+    "wiki/activity-logs/ai-report-raw-vb-2026-06-09.md",
+    "wiki/activity-logs/ai-report-raw-hn-2026-06-09.md",
+    "wiki/activity-logs/ai-report-raw-ai-news-2026-06-09.md",
+    "wiki/activity-logs/ai-report-activity-2026-06-09.md",
+    "wiki/activity-logs/ai-report-activity-2026-05-30.md",
+    "wiki/activity-logs",
+    "output/2026-05-24 - Drinks with the Boys.md",
+    "my kids.md",
+    "memory/temperature.md",
+    "memory",
+    "gotcha.md",
+    "daily-vitals-dashboard-summary-2026-06-09.md",
+    "daily-ai-reports/daily-ai-report-2026-05-30.md",
+    "daily-ai-reports",
     "conflict-files-obsidian-git.md",
-    "wiki/woocommerce-scaling.md",
-    "wiki/woocommerce-investment-index.md",
-    "wiki/woocommerce-index.md",
-    "wiki/woocom-wiki-schema.md",
-    "wiki/woocom-wiki-log.md",
-    "wiki/wiki-activity-log.md",
-    "wiki/sid-profile.md",
-    "wiki/igil-investment-analysis.md",
-    "raw/woocommerce-setup-analysis.md",
-    "raw/igil-bear-case-report.md",
-    "raw/Health dashboard design.md",
-    "output/plan.md",
-    "output",
-    "hellow world.md",
-    "download.jpg",
-    "SCHEMA.md",
-    "ssh-add",
-    "raw/routine.md"
+    "wiki/Things-to-Master-2026.md",
+    "Skills/user/local-tts-setup/local-tts-implementation-plan.md",
+    "Skills/user/sid-writing-style.md",
+    "Skills/user/sid-veo-prompter.md",
+    "Skills/user/sid-openclaw-setup.md",
+    "Skills/user/local-tts-setup",
+    "Skills/user/ethnic-vogue-typography.md",
+    "Skills/user/ethnic-vogue-marketing-strategy.md",
+    "Skills/user/ethnic-vogue-copywriter.md",
+    "Skills/public/xlsx.md",
+    "Skills/public/product-self-knowledge.md",
+    "Skills/public/pptx.md",
+    "Skills/public/pdf.md",
+    "Skills/public/pdf-reading.md",
+    "Skills/user",
+    "Skills/public",
+    "Skills",
+    "Research",
+    "FIFA World Cup 2026.html",
+    "daily",
+    "download.jpg"
   ]
 }
