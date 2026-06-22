@@ -1,0 +1,6 @@
+bohot ho gyi scrolling ab kuch kaam ki baat kr lete hai ... iss reel mein apke liye bohot amazing offer rehne wala hai to reel ko end tak dekhiye ga...hum apke liye laye hai ...10 designs ..10 colors ...10 meter each ... sirf 100 meter ke first order se aap apna textile business shuru kar sakte hai ... designs ...and colors sab aap ko chunne hai ... 130 x 100=13650/- 20,000 ki value wale fabrics apko 13,650 mein milne wale hai ...apko bas comment karna hai interested aur hamari team apko sab details DM kar degi ...aise aur bhi offers miss na ho jaye isliye aap hamare channel ko follow kar leve ...
+
+lets work on this offer ..................
+
+2. i have to crack my ads manager meta ... lets try to crack it .. look for best resources ..performance marketing setup. 
+
