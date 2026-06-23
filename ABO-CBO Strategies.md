@@ -4,66 +4,20 @@
 - [What is ABO vs CBO](obsidian:/Vault/ABO-CBO Comparison.md)
 - [Scaling Sequence](obsidian:/Vault/Scaling Sequence.md)
 - [Best Practices](obsidian:/Vault/Best Practices.md)
+- [Vertical/Horizontal Scaling](obsidian:/Vault/Vertical-Horizontal Scaling.md)
 - [Version History](obsidian:/Vault/Version_History.md)
 
 ---
 
 ## 🔍 What is ABO vs CBO?
 
-### ABO (Ad Set Budget Optimization)
-```
-┌─────────────────────────────────────┐
-│  ABO Campaign Structure             │
-│  ┌─────────┐ ┌─────────┐ ┌─────────┐│
-│  │Ad Set 1 │ │Ad Set 2 │ │Ad Set 3 ││
-│  │Budget   │ │Budget   │ │Budget   ││
-│  │$100/day │ │$100/day │ │$100/day ││
-│  └─────────┘ └─────────┘ └─────────┘│
-└─────────────────────────────────────┘
-```
-- Auto-distributes budget to best-performing ad sets
-- Ideal for testing and discovery phases
-
-### CBO (Campaign Budget Optimization)
-```
-┌─────────────────────────────────────┐
-│  CBO Campaign Structure             │
-│  ┌─────────────────────────────────┐│
-│  │         Single Budget           ││
-│  │           $300/day              ││
-│  └─────────────────────────────────┘│
-│  ┌─────────┐ ┌─────────┐ ┌─────────┐│
-│  │Ad Set 1 │ │Ad Set 2 │ │Ad Set 3 ││
-│  │Auto Opt │ │Auto Opt │ │Auto Opt ││
-│  └─────────┘ └─────────┘ └─────────┘│
-└─────────────────────────────────────┘
-```
-- Distributes budget across ad sets automatically
-- Best for scaling proven winners
+### [View ABO vs CBO Comparison](obsidian:/Vault/ABO-CBO Comparison.md)
 
 ---
 
 ## 🧭 Scaling Sequence
 
-### Phase 1: ABO Testing
-```
-┌───────────────────────────────────────────────┐
-│  Step 1: ABO Campaign                         │
-│  • 3-5 ad sets with $100/day each             │
-│  • Duration: 7-14 days                          │
-│  • Monitor: Creative Center for top creatives │
-└───────────────────────────────────────────────┘
-```
-
-### Phase 2: Transition to CBO
-```
-┌───────────────────────────────────────────────┐
-│  Step 2: CBO Campaign                         │
-│  • Consolidate winning ad sets                │
-│  • Set CBO budget to 2-3x conversion value    │
-│  • Enable automatic expansion                 │
-└───────────────────────────────────────────────┘
-```
+[View Phase 1-2 Sequence](obsidian:/Vault/Scaling Sequence.md)
 
 ---
 
@@ -84,18 +38,45 @@
 - [ ] Score users on 3-5 purchase behaviors
 - [ ] Retargeting uses CBO for lookalike scaling
 
+### 🚨 Scaling Methods
+
+#### 1️⃣ Vertical Scaling (Expand Winners)
+```
+┌────────────────┐
+│  Vert Scaling │
+│  ↳ Increase    │
+│  ↳ Budget of   │
+│  ↳ Proven Sets │
+└────────────────┘
+```
+- **When to Use**: ROAS >3x, CPA stable, audience saturation
+- **Risk**: Rising CPMs if frequency >2.5
+
+#### 2️⃣ Horizontal Scaling (New Angles)
+```
+┌────────────────┐
+│  Horiz Scaling │
+│  ↳ Duplicate   │
+│  ↳ Winning     │
+│  ↳ New Angles  │
+└────────────────┘
+```
+- **When to Use**: Multiple creatives, exploring new markets
+- **Risk**: Creative dilution if >5 variations
+
 ---
 
-## 📸 Screenshots
+## 📈 Sample Scaling Diagram
 
-> **[Insert: ABO Dashboard Screenshot]**  
-> Show ad set budget allocation and performance
+> **[Insert: Vertical Scaling Diagram]**  
+> Show budget arrow increasing for single ad set
 
-> **[Insert: CBO Optimization Flow]**  
-> Show budget distribution across ad sets
+> **[Insert: Horizontal Scaling Diagram]**  
+> Show 3-5 branching ad sets with variations
 
 ---
 
 ## 🧱 Version History
-- **2023-10-15**: Initial version with core guidelines
-- [View full history](obsidian:/Vault/Version_History.md)
+- **2023-10-15**: Initial version
+- **2023-10-25**: Added scaling methods section
+- [View history](obsidian:/Vault/Version_History.md)
