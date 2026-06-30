@@ -184,6 +184,7 @@ Track these per format/series to spot which Tracks resonate and double down.
 ---
 
 ## Related Notes
+- [[Vinh-Giang-Communication-Masterclass]] — vocal delivery framework that pairs with this format/editing playbook
 - [[Content Strategy — Hormozi SPCL Framework]]
 - [[Chandni Silk Mills — Marketing Strategy]]
 - [[Label Ethnic Vogue — Marketing Strategy]]
