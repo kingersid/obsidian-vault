@@ -58,9 +58,24 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "e1fd9554967487d8",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Wiki/Vinh-Giang-Communication-Masterclass.md",
+                "bFile": "Wiki/Vinh-Giang-Communication-Masterclass.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Vinh-Giang-Communication-Masterclass  (Index)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -234,8 +249,22 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "4e168b90084b0689",
+  "active": "e1fd9554967487d8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "meta ads conversion tracking.md",
+    "daily-ai-report-generator/references/session-2026-06-14-collection-provenance.md",
+    "daily-ai-report-generator/references",
+    "daily-ai-report-generator",
+    "wiki/Vinh-Giang-Communication-Masterclass.md",
+    "wiki/Hormozi-SPCL-Content-Strategy.md",
+    "wiki/Chandni-Silk-Mills/CTWA-Campaign-Log.md",
+    "wiki/Chandni-Silk-Mills",
+    "wiki/Art-Of-Yapping-Masterclass.md",
+    "Vertical-Horizontal Scaling.md",
+    "Meta Ads API Setup.md",
+    "Chandni Silk Mills LLP - Janmashtami 2026 Wholesale Offers.md",
+    "ABO-CBO Strategies.md",
     "wiki/raw",
     "wiki/Karpathy LLM Wiki Schema.md",
     "wiki/VPS Change Chronology.md",
@@ -243,7 +272,6 @@
     "wiki/Services & Projects.md",
     "meta-ads setup.md",
     "Offers.md",
-    "conflict-files-obsidian-git.md",
     "HONASA.md",
     "daily/routine.md",
     "wiki/activity-logs/ai-report-raw-vb-2026-06-09.md",
@@ -255,23 +283,10 @@
     "FIFA World Cup 2026.html",
     "2026 Indian Holidays.md",
     "raw/A8A77000",
-    "wiki/sid-persona.md",
-    "wiki/gut-recovery-plan.md",
-    "wiki/daily-vitals-summary.md",
-    "wiki/activity-logs/ai-report-activity-2026-05-30.md",
     "wiki/activity-logs",
     "raw/customer_billing_report.csv",
-    "output/daily trending repositories.md",
-    "daily-ai-reports/daily-ai-report-2026-05-30.md",
     "daily-ai-reports",
-    "wiki/APSEZ trivia.md",
-    "wiki/event-drinks-patiala-2026-05-24.md",
-    "wiki/daily-habits.md",
     "wiki/recursor.txt",
-    "raw/APSEZ_Investment_Case_May2026.docx",
-    "memory",
-    "Skills/user/local-tts-setup",
-    "Skills/user",
     "download.jpg"
   ]
 }
