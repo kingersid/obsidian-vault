@@ -1,38 +1,29 @@
-# Wiki Activity Log
+## 📝 Wiki Activity Log
 
-## Purpose
-This log tracks the evolution, ingests, queries, and maintenance activities of both WooCommerce Scaling and Investment Analysis Wikis. Following the Karpathy LLM Wiki pattern, this serves as a chronological record of all wiki operations and decision points.
-
----
-
-## Log Format
-```
-## [YYYY-MM-DD] [Operation Type] | [Topic/Title]
-- [Specific action taken]
-- [Key insights discovered]
-- [Decisions made]
-- [Next steps identified]
-```
+> Append-only chronological log. Each entry records who made what change and when.
 
 ---
 
-## Chronological Log
+### 2026-06-25T19:00 UTC
 
-## [2026-05-20] Analysis | WooCommerce Setup Audit
-## [2026-06-08] Generation | Daily AI Report
-- **Operation**: Generated comprehensive Daily AI Report using Daily AI Report Generator skill
-- **Data Sources**: Hacker News (front page scanned via browser; AI signal limited this cycle), VentureBeat AI (7 articles June 2-7), AI News (6 articles June 3-5)
-- **Key Stories Covered**: Anthropic 80% production code authored by Claude; Google Gemma 4 12B open-source local multimodal; Qwen3.7-Plus at $0.40/$1.60 per million tokens; Microsoft AI independence + Scout M365 agent; Perplexity hybrid local-cloud inference at Computex; blast-radius management article; Meta Business Agent; C3 AI + Shell predictive maintenance
-- **Trends Identified**: Agentic AI as default enterprise delivery model; cost compression as enterprise requirement; open-source multimodal at consumer hardware specs; AI IPO era beginning; AI as infrastructure (non-tool)
-- **Documentation**: `/root/workspace/daily-vitals/daily-ai-report-2026-06-08.md`
+**Author:** Codebuff (Buffy)
+
+**Changes:**
+- Created `VPS Architecture Overview.md` — hub page with systems map, directory tree, port refs
+- Created `WhatsApp System.md` — WhatsApp bots, community join flow, Puppeteer config
+- Created `Meta Ads System.md` — CAPI server endpoints, CLI, joinCommunity event
+- Created `Services & Projects.md` — full inventory of systemd, PM2, Docker, cron
+- Created `Custom AI Skills.md` — RAG, voice agents, Mastra, stock skills, Obsidian MCP
+- Created `Docker & Infrastructure.md` — containers, network map, databases, Tor proxy
+- Created `VPS Change Chronology.md` — timeline of all changes since April 2026
+- Created `Karpathy LLM Wiki Schema.md` — schema/config for AI-maintained wiki
+- Created `wiki-activity-log.md` — this file, append-only log
+
+**Affected Systems:**
+- Meta CAPI server: added join-community routes, config-public endpoint
+- WhatsApp: new community listener service deployed
+- Config: whatsapp_number set to +919537097267
 
 ---
 
-*This log will be updated with each wiki operation, ingest, query, and maintenance activity to provide a complete record of the knowledge base evolution across both e-commerce scaling and investment analysis domains.*
-
-## [2026-06-09] Generation | Daily AI Report
-- **Operation**: Generated Daily AI Report via direct browser collection
-- **Data Sources**: Hacker News (browser snapshot), VentureBeat AI (browser snapshot + scroll), AI News (browser snapshot; cookie dialog non-blocking)
-- **Key Stories Covered**: Apple AI architecture/Siri/Core AI Framework; Xiaomi MiMo-v2.5-Pro-UltraSpeed; xAI datacenter REIT analysis; Anthropic 80% production code authored by Claude; Harness-1 open-source AI search agent; Alibaba Qwen3.7-Plus multimodal pricing; Aviva £230M AI fraud detection; C3 AI + Shell predictive maintenance; Meta Business Agent; Google Gemma 4 12B local multimodal
-- **Trends Identified**: Apple external-model dependency / platform reorientation; agentic AI expanding from coding to operations; cost compression as primary enterprise feature; local-first multimodal closing the gap with frontier models
-- **Documentation**: `/root/workspace/daily-vitals/daily-ai-report-2026-06-09.md`
+*Next entry goes above this line.*
