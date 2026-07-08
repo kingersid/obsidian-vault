@@ -22,6 +22,12 @@
 - comparisons/performance-vs-industry-benchmarks.md
 - queries/meta-ads-efforts-summary.md
 
+## [2026-07-08] create | CAPI integration config reference
+- File: entities/capi-integration-config.md
+- Captured full CAPI config: ad account act_370818469, Pixel 1373300634665128, server port 3004, n8n port 5679, WhatsApp 919537097267, endpoint v21.0
+- Flagged: TWO divergent access tokens (Token A in ~/.meta-ads/config.json vs Token B in project config.json) — needs validation before go-live
+- Flagged: n8n workflow NOT yet imported/activated; token must live in n8n env var META_ACCESS_TOKEN
+
 ## [2026-07-08] flag | missing benchmark source
 - Skill references references/industry-benchmarks-2026.md but the file does not exist in the vault.
 - Benchmark comparisons use general-knowledge estimates; file pending build.

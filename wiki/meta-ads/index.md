@@ -11,6 +11,7 @@
 ## Entities
 - [[ethnic-vogue-meta-account]] — act_370818469 overview, structure, current state
 - [[promoting-copy-campaign]] — sole active campaign, ad-level performance, $665/7d
+- [[capi-integration-config]] — full CAPI config: tokens, IDs, ports, n8n workflow, payload schema
 
 ## Concepts
 - [[conversion-tracking-gap]] — the core problem: 0 conversions despite ~$2.1k/30d spend
