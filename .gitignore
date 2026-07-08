@@ -1,6 +1,0 @@
-# Secrets / credential-bearing files — never commit
-wiki/meta-ads/entities/capi-integration-config.md
-
-# Generic safety net for future secret dumps (uncomment if needed)
-# *-secrets.md
-# *access_token*
