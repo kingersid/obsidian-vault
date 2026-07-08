@@ -17,14 +17,14 @@ His most-repeated, most-viral teaching unit across YouTube, TikTok, podcasts (Di
 
 ## Most Viral / Most-Referenced Videos
 
-| Video | Format | Core Idea |
-|---|---|---|
-| **The 5 Vocal Foundations of Great Communication** (Kerwin Rae Podcast Clips / own channel) | Long-form + clipped into dozens of Shorts | Rate of speech, volume, pitch/melody, tonality, pause — the 5 levers of vocal variety |
-| **No. 1 Communication Expert: This Speaking Mistake Makes People Dislike You** (Diary of a CEO) | Podcast, heavily clipped | Vocal image, why people interrupt you, accent & confidence, storytelling formula |
-| **Communication Expert: Why You Keep Getting Interrupted** (On Purpose w/ Jay Shetty) | Podcast | 4 Stages of Competence applied to speaking, accent confidence, energy management |
-| **13 Years of Communication Skills Knowledge in 53 Minutes** | Long-form compilation | Full curriculum condensed — vocal image, nerves, wit, finding your style |
-| **#AskVinh Q&A series** | Recurring Q&A format ("Track") | Thinking on your feet, storytelling in interviews — proof that a repeatable series format builds a library of evergreen Shorts |
-| Short-form cuts: *"Have you recorded yourself speaking?"*, *"1.0 vs 2.0 response"*, *"Dare to take up space"* | TikTok/Reels, 100K–1M+ likes each | Single-tip, single-claim micro-lessons — textbook Yapping-style hook + payoff in <30 sec |
+| Video                                                                                                         | Format                                    | Core Idea                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **The 5 Vocal Foundations of Great Communication** (Kerwin Rae Podcast Clips / own channel)                   | Long-form + clipped into dozens of Shorts | Rate of speech, volume, pitch/melody, tonality, pause — the 5 levers of vocal variety                                          |
+| **No. 1 Communication Expert: This Speaking Mistake Makes People Dislike You** (Diary of a CEO)               | Podcast, heavily clipped                  | Vocal image, why people interrupt you, accent & confidence, storytelling formula                                               |
+| **Communication Expert: Why You Keep Getting Interrupted** (On Purpose w/ Jay Shetty)                         | Podcast                                   | 4 Stages of Competence applied to speaking, accent confidence, energy management                                               |
+| **13 Years of Communication Skills Knowledge in 53 Minutes**                                                  | Long-form compilation                     | Full curriculum condensed — vocal image, nerves, wit, finding your style                                                       |
+| **#AskVinh Q&A series**                                                                                       | Recurring Q&A format ("Track")            | Thinking on your feet, storytelling in interviews — proof that a repeatable series format builds a library of evergreen Shorts |
+| Short-form cuts: *"Have you recorded yourself speaking?"*, *"1.0 vs 2.0 response"*, *"Dare to take up space"* | TikTok/Reels, 100K–1M+ likes each         | Single-tip, single-claim micro-lessons — textbook Yapping-style hook + payoff in <30 sec                                       |
 
 **Pattern across all of them:** every viral clip isolates ONE mechanism (one vocal lever, one body language cue, one mistake) and demonstrates it live, in his own voice, by switching between the "wrong" version and "right" version mid-sentence. The demonstration *is* the hook — no separate intro needed.
 
@@ -56,12 +56,12 @@ People spend disproportionate effort on visual image (posture, dress, grooming) 
 
 From Stage Academy — useful for matching delivery style to context, not just content:
 
-| Archetype | Style | Best for |
-|---|---|---|
-| **The Motivator** | Higher volume, faster rate, expansive gestures | Rallying a team, sales pitches, stage moments |
-| **The Educator** | Slower rate, structured pauses, minimal movement | Teaching, onboarding, tutorials |
-| **The Coach** | Assertive, strong language, near-zero filler words | Feedback, accountability conversations |
-| **The Friend** | Melodic tone, conversational rhythm, relaxed body | Retention content, DMs, customer relationships |
+| Archetype         | Style                                              | Best for                                       |
+| ----------------- | -------------------------------------------------- | ---------------------------------------------- |
+| **The Motivator** | Higher volume, faster rate, expansive gestures     | Rallying a team, sales pitches, stage moments  |
+| **The Educator**  | Slower rate, structured pauses, minimal movement   | Teaching, onboarding, tutorials                |
+| **The Coach**     | Assertive, strong language, near-zero filler words | Feedback, accountability conversations         |
+| **The Friend**    | Melodic tone, conversational rhythm, relaxed body  | Retention content, DMs, customer relationships |
 
 **Actionable:** Tag your own content/conversations by which archetype you're *actually* using vs. which the moment calls for. A dealer acquisition WhatsApp voice note probably wants Coach or Motivator; a customer-retention reel probably wants Friend.
 

@@ -63,15 +63,14 @@
             "id": "e1fd9554967487d8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Wiki/Vinh-Giang-Communication-Masterclass.md",
-                "bFile": "Wiki/Vinh-Giang-Communication-Masterclass.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "wiki/Vinh-Giang-Communication-Masterclass.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Vinh-Giang-Communication-Masterclass  (Index)"
+              "icon": "lucide-file",
+              "title": "Vinh-Giang-Communication-Masterclass"
             }
           }
         ],
