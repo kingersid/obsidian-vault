@@ -47,13 +47,13 @@ https://graph.facebook.com/v21.0/1373300634665128/events
 ```
 Source file: `~/.meta-ads/config.json` (field `access_token`). This is the value the integration skill designates as the source of truth.
 
-### Token B — deployed in project `config.json` (DIFFERENT)
+### Token B — ~~deployed in project `config.json`~~ **REMOVED (invalid)**
 ```
-EAANpJslMoTMBR2BUWpIFgGro0aPct67AWrwr2hKwz5UsDOyue1moEiZAk55m6BY2cSvO3FBsptp0oJvLbHVjFXAfOJyOQZCXZCTExAQkjxMgaVU4H9nXj0yRA4C7ZCXCZCbZALm8BLY8xpBCjxHQEBg9hKwjCpUyn77ahxrUnY2QZBCVs257jHyIfM5Q3ZBVyEJ1CgZDZD
+[REMOVED 2026-07-10 — this token returned HTTP 400 (invalid/expired); it has been purged from config.json and from this doc]
 ```
-Source file: `/root/workspace/meta-ads-conversion-tracking/config.json` (field `access_token`).
+Source file: `/root/workspace/meta-ads-conversion-tracking/config.json` (field `access_token` — now `null`).
 
-> 🚩 FLAG — TOKENS DIVERGE: Token A and Token B are NOT the same string. One may be expired/rotated. Before going live, validate which is currently valid:
+> ✅ RESOLVED — Token B was invalid (HTTP 400) and has been removed everywhere. Use **Token A** (canonical, in `~/.meta-ads/config.json`) as the source of truth.
 > `curl -s -X GET "https://graph.facebook.com/v21.0/me?access_token=<TOKEN>"`
 > Use the one that returns the account. Set THAT one as `META_ACCESS_TOKEN` in n8n.
 
