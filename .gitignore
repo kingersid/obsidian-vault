@@ -1,0 +1,9 @@
+# Secret-bearing config — never commit (see Wiki/Sabri-Suby-FB-Ads-Playbook.md safety note)
+wiki/meta-ads/entities/capi-integration-config.md
+
+# Local environment / secret files
+.env
+*.env
+credentials.json
+config.json
+.meta-ads/
